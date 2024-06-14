@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+As an aspiring Backend Developer, I am passionate about creating robust and efficient server-side applications. With a strong foundation in [specific programming languages or technologies, e.g., Java, Python, Node.js], I am focused on developing scalable and secure backend solutions.
+
+I am dedicated to continuous learning and constantly seek to expand my knowledge and skills. Whether it's exploring the latest frameworks or participating in online courses, I stay up-to-date with the latest advancements in the field.
+
+Eager to take on new challenges and contribute to innovative projects, I am looking for opportunities to grow and make a meaningful impact. If you are looking for a dedicated and adaptable backend developer to join your team, let's connect!
